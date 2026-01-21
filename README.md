@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Andre Jones</h1>
-<h3 align="center">A passionate BI/Data Analyst Graduate</h3>
+<h3 align="center">As a TripleTen BI Analyst graduate, I leverage advanced SQL, Power BI, and Tableau expertise to transform complex datasets into actionable business insights. I have successfully delivered data-driven projects, including cohort analysis and predictive modeling, to optimize operational efficiency and strategic decision-making. With a strong foundation in statistical analysis and data visualization, I am eager to apply my technical skills to drive growth in the tech and finance industries.</h3>
 
 - 🔭 I’m currently working on **Python**
 
