@@ -12,6 +12,8 @@
 - ⚡ Fun fact **I currently live in Arizona so I love to hike and i think i might just be one of the best basketball players lol**
 
 - Linked In: www.linkedin.com/in/andre-jones-aja
+- Resume: https://drive.google.com/file/d/1EZy3oBFBLfASADLXMLIVxb4vKkyQC09n/view?usp=sharing
+- GitHub Username: andrepj1998
 
 
 <h3 align="left">Languages and Tools:</h3>
