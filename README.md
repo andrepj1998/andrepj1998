@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **andre131jn@gmail.com**
 
-- ⚡ Fun fact **I currently live in Arizona so I love to hike and i think i might just be one of the best basketball players lol**
+- ⚡ Fun fact **I currently live in Arizona so I love to hike and i think i might just be one of the best basketball players should have went D1 lol**
 
 - Linked In: www.linkedin.com/in/andre-jones-aja
 - Resume: https://drive.google.com/file/d/1EZy3oBFBLfASADLXMLIVxb4vKkyQC09n/view?usp=sharing
